@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+<g id="active"><path d="M8 8H17V17H8Z" fill="none" stroke="#00d9ff" stroke-width="1.5"/><path d="M6 15V6H15" fill="none" stroke="#00d9ff" stroke-width="1.5"/></g>
+<g id="hover"><path d="M8 8H18V18H8Z" fill="none" stroke="#00d9ff" stroke-width="2"/><path d="M6 15V6H15" fill="none" stroke="#00d9ff" stroke-width="2"/></g>
+<g id="center"><rect x="0" y="0" width="24" height="24" fill="none"/></g>
+</svg>
